@@ -1,0 +1,162 @@
+[
+  {
+    "es": "ser/estar",
+    "en": "be;was/were;been"
+  },
+  {
+    "es": "soportar",
+    "en": "bear;bore;born"
+  },
+  {
+    "es": "golpear",
+    "en": "beat;beat;beaten"
+  },
+  {
+    "es": "convertirse",
+    "en": "become;became;become"
+  },
+  {
+    "es": "empezar",
+    "en": "begin;began;begun"
+  },
+  {
+    "es": "apostar",
+    "en": "bet;bet;bet"
+  },
+  {
+    "es": "morder",
+    "en": "bite;bit;bitten"
+  },
+  {
+    "es": "soplar",
+    "en": "blow;blew;blown"
+  },
+  {
+    "es": "transmitir",
+    "en": "broadcast;broadcast;broadcast"
+  },
+  {
+    "es": "romper",
+    "en": "break;broke;broken"
+  },
+  {
+    "es": "traer",
+    "en": "bring;brought;brought"
+  },
+  {
+    "es": "construir",
+    "en": "build;built;built"
+  },
+  {
+    "es": "quemar",
+    "en": "burn;burnt;burnt"
+  },
+  {
+    "es": "comprar",
+    "en": "buy;bought;bought"
+  },
+  {
+    "es": "poder",
+    "en": "can;be able to;could"
+  },
+  {
+    "es": "atrapar",
+    "en": "catch;caught;caught"
+  },
+  {
+    "es": "elegir",
+    "en": "choose;chose;chosen"
+  },
+  {
+    "es": "venir",
+    "en": "come;came;come"
+  },
+  {
+    "es": "costar",
+    "en": "cost;cost;cost"
+  },
+  {
+    "es": "cortar",
+    "en": "cut;cut;cut"
+  },
+  {
+    "es": "hacer",
+    "en": "do;did;done"
+  },
+  {
+    "es": "dibujar",
+    "en": "draw;drew;drawn"
+  },
+  {
+    "es": "soñar",
+    "en": "dream;dreamt;dreamt"
+  },
+  {
+    "es": "beber",
+    "en": "drink;drank;drunk"
+  },
+  {
+    "es": "conducir",
+    "en": "drive;drove;driven"
+  },
+  {
+    "es": "comer",
+    "en": "eat;ate;eaten"
+  },
+  {
+    "es": "caer",
+    "en": "fall;fell;fallen"
+  },
+  {
+    "es": "alimentar",
+    "en": "feed;fed;fed"
+  },
+  {
+    "es": "sentir",
+    "en": "feel;felt;felt"
+  },
+  {
+    "es": "luchar",
+    "en": "fight;fought;fought"
+  },
+  {
+    "es": "encontrar",
+    "en": "find;found;found"
+  },
+  {
+    "es": "volar",
+    "en": "fly;flew;flown"
+  },
+  {
+    "es": "olvidar",
+    "en": "forget;forgot;forgotten"
+  },
+  {
+    "es": "congelar",
+    "en": "freeze;froze;frozen"
+  },
+  {
+    "es": "obtener",
+    "en": "get;got;got"
+  },
+  {
+    "es": "dar",
+    "en": "give;gave;given"
+  },
+  {
+    "es": "ir",
+    "en": "go;went;gone"
+  },
+  {
+    "es": "crecer",
+    "en": "grow;grew;grown"
+  },
+  {
+    "es": "colgar",
+    "en": "hang;hung;hung"
+  },
+  {
+    "es": "tener",
+    "en": "have;had;had"
+  }
+]

@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; text-align: center; margin: 20px; background: #f4f4f4; }
+h1 { color: #333; }
+#quiz-container { max-width: 500px; margin: auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+button { display: block; margin: 10px auto; padding: 10px; font-size: 16px; width: 80%; border: none; border-radius: 5px; cursor: pointer; }
+button:hover { opacity: 0.9; }
+.correct { background-color: #4CAF50; color: white; }
+.incorrect { background-color: #f44336; color: white; }
+#feedback { font-weight: bold; margin-top: 15px; }
+#progress-container { width: 100%; background: #ddd; height: 20px; border-radius: 10px; margin-bottom: 20px; }
+#progress-bar { height: 100%; width: 0%; background: #4CAF50; border-radius: 10px; }
+#score { font-size: 18px; font-weight: bold; margin-top: 20px; }
